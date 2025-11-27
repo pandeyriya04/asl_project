@@ -1,0 +1,7 @@
+# Ignore large model and dataset files for sign language recognizer
+/Sign_language_alphabet_recognizer/model.h5
+/Sign_language_alphabet_recognizer/X_train.npy
+/Sign_language_alphabet_recognizer/*.h5
+/Sign_language_alphabet_recognizer/*.npy
+# macOS
+.DS_Store
